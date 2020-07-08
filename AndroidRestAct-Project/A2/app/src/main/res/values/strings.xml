@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Project3A2</string>
+    <string name="Pdesc">Allows P3</string>
+    <string-array name="RestNames">
+        <item>RPM Steak</item>
+        <item>RPM Italian</item>
+        <item>Joes Stone Crab</item>
+        <item>Wildfire</item>
+        <item>Big Bowl</item>
+        <item>Ema</item>
+        <item>Aba</item>
+        <item>Sushi San</item>
+    </string-array>
+    <string-array name="RestDesc">
+        <item>https://www.rpmrestaurants.com/rpm-steak-chicago/</item>
+        <item>https://www.rpmrestaurants.com/rpm-italian-chicago/</item>
+        <item>https://www.joes.net/chicago/</item>
+        <item>https://www.wildfirerestaurant.com/chicago/</item>
+        <item>https://www.bigbowl.com/chicago/</item>
+        <item>https://www.emachicago.com/</item>
+        <item>https://www.abarestaurants.com/chicago/</item>
+        <item>https://www.sushisanrestaurant.com/</item>
+    </string-array>
+    <string-array name="ActNames">
+        <item>Navy Pier</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Field Museum</item>
+        <item>Shedd Aquarium</item>
+        <item>The Bean</item>
+        <item>Museum of Science and Industry</item>
+        <item>Sears Tower</item>
+        <item>Montrose Harbor</item>
+    </string-array>
+    <string-array name="ActDesc">
+        <item>https://navypier.org/</item>
+        <item>https://www.lpzoo.org/</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://en.wikipedia.org/wiki/Cloud_Gate</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://en.wikipedia.org/wiki/Willis_Tower</item>
+        <item>https://www.chicagoharbors.info/harbors/montrose/</item>
+    </string-array>
+
+
+</resources>

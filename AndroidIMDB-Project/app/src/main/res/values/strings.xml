@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Movie List</string>
+
+    <string-array name="IMDBsites">
+        <item>https://www.imdb.com/title/tt6751668/?ref_=nv_sr_srsg_0</item>
+        <item>https://www.imdb.com/title/tt1856101/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt1727824/?ref_=nv_sr_srsg_0</item>
+        <item>https://www.imdb.com/title/tt7286456/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt7975244/?ref_=nv_sr_srsg_0</item>
+        <item>https://www.imdb.com/title/tt1302006/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt4154796/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt0437086/?ref_=nv_sr_srsg_0</item>
+        <item>https://www.imdb.com/title/tt3659388/?ref_=nv_sr_srsg_0</item>
+        <item>https://www.imdb.com/title/tt1477834/?ref_=fn_al_tt_1</item>
+    </string-array>
+
+    <string-array name="Trailersites">
+        <item>https://www.youtube.com/watch?v=isOGD_7hNIY</item>
+        <item>https://www.youtube.com/watch?v=dZOaI_Fn5o4</item>
+        <item>https://www.youtube.com/watch?v=mP0VHJYFOAU</item>
+        <item>https://www.youtube.com/watch?v=zAGVQLHvwOY</item>
+        <item>https://www.youtube.com/watch?v=rBxcF-r9Ibs</item>
+        <item>https://www.youtube.com/watch?v=RS3aHkkfuEI</item>
+        <item>https://www.youtube.com/watch?v=TcMBFSGVi1c</item>
+        <item>https://www.youtube.com/watch?v=cislZ9S0ocA</item>
+        <item>https://www.youtube.com/watch?v=ej3ioOneTy8</item>
+        <item>https://www.youtube.com/watch?v=WDkg3h8PCVU</item>
+    </string-array>
+
+    <string-array name="DirectorSites">
+        <item>https://en.wikipedia.org/wiki/Bong_Joon-ho</item>
+        <item>https://en.wikipedia.org/wiki/Denis_Villeneuve</item>
+        <item>https://en.wikipedia.org/wiki/Bryan_Singer</item>
+        <item>https://en.wikipedia.org/wiki/Todd_Phillips</item>
+        <item>https://en.wikipedia.org/wiki/Jake_Kasdan</item>
+        <item>https://en.wikipedia.org/wiki/Martin_Scorsese</item>
+        <item>https://en.wikipedia.org/wiki/Russo_brothers</item>
+        <item>https://en.wikipedia.org/wiki/Robert_Rodriguez</item>
+        <item>https://en.wikipedia.org/wiki/Ridley_Scott</item>
+        <item>https://en.wikipedia.org/wiki/James_Wan</item>
+    </string-array>
+
+    <string-array name="DirectorName">
+        <item>Bong Joon-ho</item>
+        <item>Denis Villeneuve</item>
+        <item>Bryan Singer</item>
+        <item>Todd Phillips</item>
+        <item>Jake Kasdan</item>
+        <item>Martin Scorsese</item>
+        <item>Anthony Russo, Joe Russo</item>
+        <item>Robert Rodriguez</item>
+        <item>Ridley Scott</item>
+        <item>Jame Wan</item>
+    </string-array>
+
+    <string-array name="MovieInfo">
+        <item>2019 Stars: Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo</item>
+        <item>2017 Stars: Harrison Ford, Ryan Gosling, Ana de Armas </item>
+        <item>2018 Stars: Rami Malek, Lucy Boynton, Gwilym Lee</item>
+        <item>2019 Stars: Joaquin Phoenix, Robert De Niro, Zazie Beetz</item>
+        <item>2019 Stars: Dwayne Johnson, Jack Black, Kevin Hart</item>
+        <item>2019 Stars: Robert De Niro, Al Pacino, Joe Pesci</item>
+        <item>2019 Stars: Robert Downey Jr., Chris Evans, Mark Ruffalo</item>
+        <item>2019 Stars: Rosa Salazar, Christoph Waltz, Jennifer Connelly</item>
+        <item>2015 Stars: Matt Damon, Jessica Chastain, Kristen Wiig</item>
+        <item>2018 Stars: Jason Momoa, Amber Heard, Willem Dafoe </item>
+    </string-array>
+
+
+
+
+</resources>
