@@ -1,0 +1,5 @@
+This was a data editor used for the UIC class "Visual Analytics" where we would use R and Shiny to sift through data and display the results.
+The data files were of such a size (10+ GB of plain text) that the files needed sanitizaion before use.
+The files also were unformated for large portions which would lead to data errors in R.
+As C++ runs much faster than R, I used that to remove undesired lines from each of the text files and create new files that would be usable.
+The result was a set of files totally under 150 MB.
