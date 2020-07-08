@@ -1,0 +1,8 @@
+This was a 2 man project for a UIC class. There are two Arduino parts, the robot and the remote.
+The remote went with my partner and the robot stayed with me as I paid for most of the parts.
+The remote connects via bluetooth. This allows for a smart phone app to take its place if required.
+
+The power supply is a 10000MaH power bank, allowing for a 5v power to the motors and 5v to the arduino/bluetooth module.
+I wrote the programming for this robot, and the omni wheels allow for it to move in any direction at any moment, plus able to rotate.
+
+I have plans to add mmore power to the wheels and a more stable base. The base is currently small wood peices designed for small art peices wood-glued together.
