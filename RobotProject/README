@@ -6,3 +6,5 @@ The power supply is a 10000MaH power bank, allowing for a 5v power to the motors
 I wrote the programming for this robot, and the omni wheels allow for it to move in any direction at any moment, plus able to rotate.
 
 I have plans to add mmore power to the wheels and a more stable base. The base is currently small wood peices designed for small art peices wood-glued together.
+
+The files here include the program loaded to the arduino via Arduino IDE, a video of the robot in a programmed in demo mode and a still picture.
